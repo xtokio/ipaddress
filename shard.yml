@@ -1,0 +1,13 @@
+name: ipaddress
+version: 0.1.0
+
+authors:
+  - Luis Gomez <xtokio@gmail.com>
+
+targets:
+  ipaddress:
+    main: src/ipaddress.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
